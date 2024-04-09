@@ -10,6 +10,7 @@ import Home from "./screens/HomeScreen";
 import * as Linking from "expo-linking";
 const Stack = createStackNavigator();
 
+
 const App = () => {
   useEffect(() => {
     // Lấy URL của ứng dụng được lưu trữ trong Expo Client
